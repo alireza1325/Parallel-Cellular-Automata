@@ -9,4 +9,4 @@ Figures below show two intresting images produced by rule 110 and 18.
 ![Rule 18](ElementaryCA_4000_x_2000_Rule18.jpg)
 
 ## Rule 110 of ECA
-![Rule 18](ElementaryCA_4000_x_2000_Rule18.jpg)
+![Rule 110](ElementaryCA_1000_x_500_Rule110.jpg)
